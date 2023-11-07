@@ -1,0 +1,9 @@
+cria Planicie 2
+cria Planicie 1
+cria Duna 4
+cria Refugio 1
+cria Pescaria 3
+cria Castelo 2
+cria Montanha 5
+cria Mina 3
+cria Fortaleza 4
